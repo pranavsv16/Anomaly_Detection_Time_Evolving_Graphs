@@ -1,6 +1,8 @@
 # Anomaly_Detection_Time_Evolving_Graphs
 
-**Research Paper:** I have implemented an algorithm from paper (DELTACON: A Principled Massive-Graph Similarity Function)
+Anomaly detection refers to the problem of finding patterns in data that fail to conform to the expected standard. These anomalous patterns are useful to a number of business applications, such as identifying trending topics on social media and suspicious traffic on computer networks, as well as detecting credit card fraud, insurance fraud, and e-auction fraud.
+
+**Research Paper:** I have implemented an algorithm from paper: [DELTACON: A Principled Massive-Graph Similarity Function](https://arxiv.org/pdf/1304.4657)
 
 
 ### Datasets:
